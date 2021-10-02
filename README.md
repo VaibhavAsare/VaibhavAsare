@@ -6,7 +6,7 @@
 This is ***Vaibhav Asare*** and I am  ***AI*** enthusiast. I have insights into ***Machine Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Nagpur, Maharashtra, India. Anyone can find me on :
 Anyone can find me on :
 
-&nbsp;<a href = "www.linkedin.com/in/vaibhav-asare" ><img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/Linkedin.png" height="20"><img></a>
+&nbsp;<a href = "https://www.linkedin.com/in/vaibhavasare/" ><img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/Linkedin.png" height="20"><img></a>
 &nbsp;<a href = "https://www.instagram.com/__vbv___/" ><img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/Instagram.jpeg" height="20"><img></a>
 &nbsp;<a href = "https://www.facebook.com/profile.php?id=100006942991646" ><img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/Facebook%20.png" height="20"><img></a>
 
