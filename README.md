@@ -1,19 +1,50 @@
-<img src = "https://media.gettyimages.com/photos/digital-data-and-binary-code-in-network-picture-id1168836247?k=20&m=1168836247&s=612x612&w=0&h=Ra8j0A-PuIeRR8o3SKntTwb-sYGck49IhSx1IPXMtSQ=" height = 300 width = 100%><img>
+<div align="center">
 
+<img src="./assets/orbit-lab.svg" width="100%" alt="A custom animated dark dashboard for Vaibhav Asare, with a central AI radar and panels for his focus areas, projects, and future learning">
 
-# Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
+<br>
 
-This is ***Vaibhav Asare*** and I am  ***AI*** enthusiast. I have insights into ***Machine Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Nagpur, Maharashtra, India. Anyone can find me on :
-Anyone can find me on :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavasare/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vbvasare@gmail.com)
+![Location](https://img.shields.io/badge/Based_in-Nagpur%2C_India-2ea44f?style=flat-square)
 
-&nbsp;<a href = "https://www.linkedin.com/in/vaibhavasare/" ><img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/Linkedin.png" height="20"><img></a>
-&nbsp;<a href = "https://www.instagram.com/__vbv___/" ><img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/Instagram.jpeg" height="20"><img></a>
-&nbsp;<a href = "https://www.facebook.com/profile.php?id=100006942991646" ><img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/Facebook%20.png" height="20"><img></a>
+</div>
 
-Anyone can also contact me via 
-&nbsp;<img src = "https://github.com/VaibhavAsare/VaibhavAsare/blob/main/Images/gmail.png" width = 20><img> : vbvasare@gmail.com
+---
 
-<!---
-VaibhavAsare/VaibhavAsare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## A little about me
+
+I'm an AI enthusiast from Nagpur, India, interested in **machine learning, computer vision, and natural language processing**. I'm expanding that foundation into **data engineering and cloud**—and I enjoy making practical projects along the way, from real-time sign-language recognition to experiments with local AI.
+
+```text
+ml + vision + language  →  useful applications
+                 next   →  stronger data & cloud foundations
+```
+
+## Things I'm exploring
+
+- Building applied AI projects with Python and machine learning
+- Computer vision and real-time recognition
+- Natural language processing and local language models
+- Data engineering and cloud technologies
+
+## Selected projects
+
+| Project | What it does |
+| --- | --- |
+| [AI YouTube Shorts Generator](https://github.com/VaibhavAsare/AI-Youtube-Shorts-Generator) | Finds promising moments in long videos and turns them into short-form clips, with API and local workflows. |
+| [Local AI on a Laptop](https://github.com/VaibhavAsare/local-llm-laptop-guide) | A tested guide to running a small language model locally with Ollama on a CPU-only Windows laptop. |
+| [Real-time Sign Language Detection](https://github.com/VaibhavAsare/Realtime-Sign-Language-Detection-And-Recognition) | A computer-vision project exploring real-time sign-language detection and recognition. |
+
+## GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VaibhavAsare&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub stats for Vaibhav Asare">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavAsare&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages">
+</div>
+
+<div align="center">
+
+*Curious by default. Building one useful thing at a time.*
+
+</div>
